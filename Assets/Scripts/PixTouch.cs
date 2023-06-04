@@ -7,6 +7,7 @@ public class PixTouch : MonoBehaviour
     
     [SerializeField] public int pixCount;
     [SerializeField] public TMP_Text pixDisplayText;
+    [SerializeField] private GameObject[] pixFloatingList;
 
 
     void Update()
@@ -16,9 +17,23 @@ public class PixTouch : MonoBehaviour
             touch = Input.GetTouch(0);
 
             pixCount = pixCount + 1;
-            Debug.Log(pixCount);
 
             pixDisplayText.text = pixCount.ToString();
+            Debug.Log(FindFloatingPix());
+            pixFloatingList[FindFloatingPix()].GetComponent<PixIncreaseObject>().ActivateFloatingPix();
         }
+    }
+
+    private int FindFloatingPix()
+    {
+        for (int i = 0; i < pixFloatingList.Length; i++)
+        {
+            if (!pixFloatingList[i].activeInHierarchy)
+            {
+                Debug.Log("Entrou aq");
+                return i;
+            }
+        }
+        return 0;
     }
 }

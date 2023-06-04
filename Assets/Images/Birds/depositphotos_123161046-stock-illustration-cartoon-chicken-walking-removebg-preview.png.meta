@@ -1,0 +1,521 @@
+fileFormatVersion: 2
+guid: ca1b9caed659cd7449b060a497a69f1d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: depositphotos_123161046-stock-illustration-cartoon-chicken-walking-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 111
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca093410b0bbd8b418f7f84d05ca9729
+      internalID: 341987730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_123161046-stock-illustration-cartoon-chicken-walking-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 228
+        width: 156
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e74fc85723381429de0e358f448791
+      internalID: -1654316151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_123161046-stock-illustration-cartoon-chicken-walking-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 234
+        width: 144
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042404ae71c8cfe4cabd9e4e1908e8d5
+      internalID: -430086518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_123161046-stock-illustration-cartoon-chicken-walking-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 228
+        width: 141
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac73b5b566b6c9249be88ce5b12a13d2
+      internalID: 1895059218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_123161046-stock-illustration-cartoon-chicken-walking-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 230
+        width: 147
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4942ea9c9ee745a48916e8e299e47720
+      internalID: 1444417348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_123161046-stock-illustration-cartoon-chicken-walking-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 114
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab7cbabbb754e84abdc9bc7effc4e19
+      internalID: 1179896054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_123161046-stock-illustration-cartoon-chicken-walking-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 138
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84a66ee96f6d5a46b1813ad09b9f3c1
+      internalID: -302817132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_123161046-stock-illustration-cartoon-chicken-walking-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 120
+        width: 150
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690a6fd60dd158348b8f6e06559a734f
+      internalID: 522755235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_123161046-stock-illustration-cartoon-chicken-walking-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 114
+        width: 156
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9c237762d84e54499fb1afed974bbd
+      internalID: 787560115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_123161046-stock-illustration-cartoon-chicken-walking-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 116
+        width: 144
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd32f3592ad767546aa88db07d1eced8
+      internalID: -1616304249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_123161046-stock-illustration-cartoon-chicken-walking-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 96
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b681a5ebfd9a50428d133149a6e3c79
+      internalID: -1283495709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_123161046-stock-illustration-cartoon-chicken-walking-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 114
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e245256d7b0b346a4e7751f5bf83cf
+      internalID: -1193701986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_123161046-stock-illustration-cartoon-chicken-walking-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2eacf07bf969f4e82a627ab5b2ea5c
+      internalID: 1387753445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_123161046-stock-illustration-cartoon-chicken-walking-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 4
+        width: 94
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c55dc58368fa0449e0578f5944b5e7
+      internalID: -1179802163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_123161046-stock-illustration-cartoon-chicken-walking-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 6
+        width: 92
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111aece7adf52ae47902bf02fa193289
+      internalID: -1367424781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_123161046-stock-illustration-cartoon-chicken-walking-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 90
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b35d14633187042b1a3934facba52b
+      internalID: -648879615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: depositphotos_123161046-stock-illustration-cartoon-chicken-walking-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 85
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653a6c3a31d56e04da26f69b2e5e6c71
+      internalID: -1078884330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      depositphotos_123161046-stock-illustration-cartoon-chicken-walking-removebg-preview_1: -1654316151
+      depositphotos_123161046-stock-illustration-cartoon-chicken-walking-removebg-preview_14: -1367424781
+      depositphotos_123161046-stock-illustration-cartoon-chicken-walking-removebg-preview_10: -1283495709
+      depositphotos_123161046-stock-illustration-cartoon-chicken-walking-removebg-preview_3: 1895059218
+      depositphotos_123161046-stock-illustration-cartoon-chicken-walking-removebg-preview_5: 1179896054
+      depositphotos_123161046-stock-illustration-cartoon-chicken-walking-removebg-preview_8: 787560115
+      depositphotos_123161046-stock-illustration-cartoon-chicken-walking-removebg-preview_9: -1616304249
+      depositphotos_123161046-stock-illustration-cartoon-chicken-walking-removebg-preview_2: -430086518
+      depositphotos_123161046-stock-illustration-cartoon-chicken-walking-removebg-preview_12: 1387753445
+      depositphotos_123161046-stock-illustration-cartoon-chicken-walking-removebg-preview_13: -1179802163
+      depositphotos_123161046-stock-illustration-cartoon-chicken-walking-removebg-preview_11: -1193701986
+      depositphotos_123161046-stock-illustration-cartoon-chicken-walking-removebg-preview_15: -648879615
+      depositphotos_123161046-stock-illustration-cartoon-chicken-walking-removebg-preview_0: 341987730
+      depositphotos_123161046-stock-illustration-cartoon-chicken-walking-removebg-preview_16: -1078884330
+      depositphotos_123161046-stock-illustration-cartoon-chicken-walking-removebg-preview_7: 522755235
+      depositphotos_123161046-stock-illustration-cartoon-chicken-walking-removebg-preview_4: 1444417348
+      depositphotos_123161046-stock-illustration-cartoon-chicken-walking-removebg-preview_6: -302817132
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
